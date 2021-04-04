@@ -1,0 +1,57 @@
+Motherboard
+
+Its a board which has slots for multiple components required for functioning of CPU
+Following components
+
+- CPU
+- RAM
+- ROM
+- Peripherals - keyboard/mouse etc
+- Storage (SATA connector being changed to NVME now which is faster)
+
+CPU
+-----
+Top manufaturers
+- Intel
+- AMD
+
+Intel 
+i51035G1
+Processor - i5
+Generation -10 
+Model -35
+G1 - Optimised for graphics
+
+Storage
+
+HDD - Hard disk drive: 200Mbps write speed
+Magnetic nails
+Assume multiple nails in a series which can be magnetised and non magnetised with power and property is retained without power tooo
+disk
+read-write ARM
+FAT - File allocation table -used in windows
+
+SSD - solid state drive - 700 to 4000 Mbps write speed
+Much faster and smaller. Less power consumption. Though still use HDD as its cheaper
+Uses NVME connector which is much faster than SATA
+
+RAM - Random access memory - volatile
+ROM - Read only memory - non volatile
+EEPROM - Electronically erasable programmable ROM
+
+
+SSD types:
+SATA (Serial Advanced Technology Attachment) : older interface. most affordable
+mSATA or Mini-SATA SSDs: similar to sata but smaller port and a bit expensive. Can be used in smaller devices. 
+NGFF M.2 SSDs: Different type of slot. Similar performance. Can accomodate other things like usb. Can use SSD using M2 and HDD using SATA in same mother board.
+NVMe PCIe SSDs: Connects using M2. Fastest upto 3000 Mbps write speed
+
+
+RAM
+DRAM: Dynamic RAM, each bit has 1 capacitor and transistor to store data. Capacitor leaks data so has to be refreshed in few ms. Bit slow but less expensive. Commonly used
+
+SRAM: Static RAM: 4 to 6 tansistor for 1 bit. More expensive but faster.
+
+DRAM is typically used in computer
+SDRAM - Synchronous DRAM
+DDR SDRAM: Dual data rate SDRAM - DDR1---DDR4 (most recent) 3200 MT/s -Double the speed of SDR SDRAM
